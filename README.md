@@ -1,8 +1,6 @@
 # Parse Mutual Fund Holdings
 
 Coding Challenge
-Mark Windsor
-May 13, 2019
 
 Parse mutual fund holdings by scraping the latest 13F xml file
 and generate a .tsv file.
